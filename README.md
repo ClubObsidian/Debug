@@ -1,2 +1,2 @@
-# StaffHashes
+# Debug
 Resources for internal debugging
