@@ -1,2 +1,2 @@
 # StaffHashes
-Hashes to be used internally
+Resources for internal debugging
